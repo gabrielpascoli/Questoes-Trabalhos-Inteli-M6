@@ -15,7 +15,7 @@ requirements.txt: arquivo com as bibliotecas necessárias para executar o códig
 
 ## como executar:
 
-No diretório desse projeto, utilize o comando :
+No diretório desse projeto, utilize do comando para inicia-lo :
 
 ```bash
 python main.py
