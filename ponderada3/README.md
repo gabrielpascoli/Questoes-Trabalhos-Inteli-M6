@@ -20,3 +20,6 @@ No diretório desse projeto, utilize o comando :
 ```bash
 python main.py
 ```
+
+## video de demonstração
+https://youtu.be/tNPmXoFdwcg
